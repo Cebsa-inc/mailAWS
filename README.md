@@ -7,3 +7,4 @@ $HOST = 'servidor';
 $SENDER_MAIL = 'correo remitente';
 $SENDER_NAME = 'nombre remitente';
 $SENDER_PASSWORD = 'contrasenia remitente';
+```
